@@ -1,0 +1,27 @@
+*{
+    font-family: "Raleway", sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+
+    
+}
+img{
+    max-width: 100%;
+    
+}
+body{
+    background-color: #000030;
+    cursor: url('./images/icons8-select-cursor-30.png'), auto;
+     
+}
+
+.container{
+    max-width: 1140px;
+    margin:0 auto;
+}
+
+select {
+    cursor: url('./images/icons8-select-cursor-30.png'), auto; /* Mantém o cursor do body */
+}
